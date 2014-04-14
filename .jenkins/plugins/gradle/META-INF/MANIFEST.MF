@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: richard
+Build-Jdk: 1.6.0_45
+Extension-Name: gradle
+Implementation-Title: gradle
+Implementation-Version: 1.23
+Group-Id: org.jenkins-ci.plugins
+Short-Name: gradle
+Long-Name: Jenkins Gradle plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Gradle+Plugin
+Plugin-Version: 1.23
+Hudson-Version: 1.409
+Jenkins-Version: 1.409
+Plugin-Developers: Gregory Boissinot:gbois:
+
