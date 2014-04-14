@@ -1,0 +1,20 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace
+[workspace] $ cmd /c call C:\Users\horodysk\AppData\Local\Temp\hudson4037076139735187333.bat
+
+C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>git add . 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>git commit -m "Jenkins update ${BUILD_NUMBER}" 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>git push 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Description set: 
+Finished: FAILURE

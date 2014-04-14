@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.8">
+      <description></description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+  </actions>
+  <number>2</number>
+  <startTime>1397459376897</startTime>
+  <result>FAILURE</result>
+  <description></description>
+  <duration>591</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace</workspace>
+  <hudsonVersion>1.558</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
