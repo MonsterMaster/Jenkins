@@ -1,0 +1,9 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL91IyizBQAiE97q8AAAAA=[0mZygmunt Horodyski
+Building in workspace C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace
+[workspace] $ cmd /c call C:\Users\zygmunt\AppData\Local\Temp\hudson7311276190187204051.bat
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>commitJenkins.bat
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>cd ..\..\..\..\ 
+
+C:\HUDSON\Jenkins>git add . 

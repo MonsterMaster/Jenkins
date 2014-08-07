@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause>
+          <userId>ehrid</userId>
+        </hudson.model.Cause_-UserIdCause>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.CauseAction>
+      <causes>
+        <com.sonyericsson.rebuild.RebuildCause plugin="rebuild@1.21">
+          <upstreamProject>Commit Jenkins Changes</upstreamProject>
+          <upstreamUrl>job/Commit%20Jenkins%20Changes/</upstreamUrl>
+          <upstreamBuild>4</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UserIdCause/>
+          </upstreamCauses>
+        </com.sonyericsson.rebuild.RebuildCause>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.8">
+      <description></description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.21"/>
+  </actions>
+  <number>5</number>
+  <startTime>1407446227037</startTime>
+  <result>FAILURE</result>
+  <description></description>
+  <duration>21824</duration>
+  <charset>windows-1250</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace</workspace>
+  <hudsonVersion>1.558</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
