@@ -23,7 +23,10 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>commitJenkins.bat</command>
+      <command>cd ..\..\..\..\
+git add .
+git commit -m &quot;Jenkins update&quot;
+git push</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers>
