@@ -28,7 +28,23 @@
       <autoRebuild>false</autoRebuild>
     </com.sonyericsson.rebuild.RebuildSettings>
   </properties>
-  <scm class="hudson.scm.NullSCM"/>
+  <scm class="hudson.plugins.git.GitSCM" plugin="git@2.2.1">
+    <configVersion>2</configVersion>
+    <userRemoteConfigs>
+      <hudson.plugins.git.UserRemoteConfig>
+        <url>https://github.com/MonsterMaster/MonsterMaster.git</url>
+        <credentialsId>28b28104-437b-4a12-a183-b6e012f54b02</credentialsId>
+      </hudson.plugins.git.UserRemoteConfig>
+    </userRemoteConfigs>
+    <branches>
+      <hudson.plugins.git.BranchSpec>
+        <name>*/master</name>
+      </hudson.plugins.git.BranchSpec>
+    </branches>
+    <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+    <submoduleCfg class="list"/>
+    <extensions/>
+  </scm>
   <canRoam>true</canRoam>
   <disabled>false</disabled>
   <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
@@ -37,19 +53,15 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>rmdir MonsterMaster /s /q
-xcopy C:\Users\zygmunt\git\MonsterMaster\* MonsterMaster\* /E</command>
-    </hudson.tasks.BatchFile>
-    <hudson.tasks.BatchFile>
-      <command>cd MonsterMaster\scripts\ 
+      <command>cd scripts\ 
 python changeManifestVersion.py %versionCode% %versionName%.%versionCode%.%BUILD_NUMBER%</command>
     </hudson.tasks.BatchFile>
     <hudson.tasks.Ant plugin="ant@1.2">
       <targets>clean release</targets>
-      <buildFile>MonsterMaster\MonsterMaster\build.xml</buildFile>
+      <buildFile>MonsterMaster\build.xml</buildFile>
     </hudson.tasks.Ant>
     <hudson.tasks.BatchFile>
-      <command>cd MonsterMaster\MonsterMaster\bin
+      <command>cd MonsterMaster\bin
 move MonsterMaster-release.apk MonsterMaster-%versionName%.%versionCode%.%BUILD_NUMBER%.apk
 
 </command>

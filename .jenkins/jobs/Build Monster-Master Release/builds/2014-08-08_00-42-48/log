@@ -1,0 +1,27 @@
+Started by upstream project "[8mha:AAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgYV/az8JH2n0sycFFUjA1+g2pLUIl3fRBAFFAhJLS4p1gcA5vLWItkAAAA=[0mBuild Monster-Master Tests" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgY1/az8JH2n0sycFFUjA1+g2pLUIl3fRBAFFAhJLS4p1jcyBwCGTDzI2wAAAA==[0m27
+originally caused by:
+ Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace
+Cloning the remote Git repository
+Cloning repository https://github.com/MonsterMaster/MonsterMaster.git
+Fetching upstream changes from https://github.com/MonsterMaster/MonsterMaster.git
+using .gitcredentials to set credentials
+Fetching upstream changes from https://github.com/MonsterMaster/MonsterMaster.git
+using .gitcredentials to set credentials
+Checking out Revision 954d4c63ec40a1147a2cdd33e27d33bd2f952cb3 (origin/master)
+First time build. Skipping changelog.
+[workspace] $ cmd /c call C:\Users\zygmunt\AppData\Local\Temp\hudson2872169702321967299.bat
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace>#rmdir MonsterMaster /s /q 
+'#rmdir' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace>#xcopy C:\Users\zygmunt\git\MonsterMaster\* MonsterMaster\* /E 
+'#xcopy' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Archiving artifacts
+Description set: 
+Finished: FAILURE

@@ -1,0 +1,10 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL91IyizBQAiE97q8AAAAA=[0mZygmunt Horodyski
+Building in workspace C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Tests\workspace
+Fetching changes from the remote Git repository
+Fetching upstream changes from https://github.com/MonsterMaster/MonsterMaster.git
+using .gitcredentials to set credentials
+Checking out Revision 954d4c63ec40a1147a2cdd33e27d33bd2f952cb3 (origin/master)
+FATAL: Unable to find build script at C:\HUDSON\Jenkins\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\build.xml
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mBuild step 'Invoke Ant' marked build as failure
+Recording test results
+Finished: FAILURE
