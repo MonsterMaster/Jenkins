@@ -1,0 +1,710 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace
+[workspace] $ cmd /c call C:\Users\horodysk\AppData\Local\Temp\hudson2855213327763163177.bat
+
+C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace>rmdir MonsterMaster /s /q 
+MonsterMaster\MONSTE~2 - The process cannot access the file because it is being used by another process.
+
+C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace>xcopy C:\Users\horodysk\git\MonsterMaster\* MonsterMaster\* /E 
+C:\Users\horodysk\git\MonsterMaster\.gitignore
+C:\Users\horodysk\git\MonsterMaster\README.md
+C:\Users\horodysk\git\MonsterMaster\.git\config
+C:\Users\horodysk\git\MonsterMaster\.git\FETCH_HEAD
+C:\Users\horodysk\git\MonsterMaster\.git\HEAD
+C:\Users\horodysk\git\MonsterMaster\.git\index
+C:\Users\horodysk\git\MonsterMaster\.git\ORIG_HEAD
+C:\Users\horodysk\git\MonsterMaster\.git\logs\HEAD
+C:\Users\horodysk\git\MonsterMaster\.git\logs\refs\heads\master
+C:\Users\horodysk\git\MonsterMaster\.git\logs\refs\remotes\origin\master
+C:\Users\horodysk\git\MonsterMaster\.git\objects\00\2d1a3d8d660d5413f748f021b42009145218f8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\00\570fd36d0ee7bac89849ea547ca5de44587c40
+C:\Users\horodysk\git\MonsterMaster\.git\objects\05\65465f225d470f6791a61ca04463ad4ee2131b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\05\6a27188daa2c11f3f1d632e5513ba5b363a357
+C:\Users\horodysk\git\MonsterMaster\.git\objects\06\c6961c4fbd6a428f3a67cd63272989310dde2f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\09\ca2f24527ce2aaef5ee11c499b64abf3b0c129
+C:\Users\horodysk\git\MonsterMaster\.git\objects\09\e6a2d4f5ffab82e583fe6fc7b327ce6626e95c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0a\c9f690a30c5141e48e16b0fe5a3e5d50499783
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0b\9488deafb66c7705b73b739903ee3a7b9a47ae
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0b\de99558b6a4c8228ad36e2d9198b4bef72e37f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0c\cb80752d5a835c7e6b874a9abe59b062f479d2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0d\4f60242d000c652b6b82ff40d03914bf49d0d9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0d\a2e62fd69bca00985c0a774c4d57a80163c3ae
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0d\caec1331cc8f00d8734d108f2223de37c19ecc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0e\42e65c0c498d8d9bcddde194147bb471624c25
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0e\b73eb494ba3f001d1d81f3bf7b62b7b8167b41
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0f\8979c3ebc949dea452a9026784a521e192330a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\0f\8f288416e38eb4d434965b5d58232dca0ca582
+C:\Users\horodysk\git\MonsterMaster\.git\objects\13\b9c66ba154a6356d0ff69ee246a631f93d7c10
+C:\Users\horodysk\git\MonsterMaster\.git\objects\14\b2a971a6de2d07eca0c31dc5e78115fdca2fb5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\18\6d980208b466ff8ebb4228edffca346886596f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\19\1452a98a2b32edb353bf16805cf2962353cd8b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1a\04287b401e1177a7a334eb18881138ac70854b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1a\0d686b723d1d2b60ec559a813c96fe679708f5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1a\4958cfa52fbd861be7b9b7d9710c96435ba939
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1b\0ea61ba008a4156e444842944f1e8a046c87a1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1b\2da5dafd83689b8f23be6e2ee161e5eb0227fb
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1b\6b2ed31a9ca915e9c31f003a15b99d3bbd4597
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1b\b4aba12aa045d4a556e8819e9d1aa772beeb26
+C:\Users\horodysk\git\MonsterMaster\.git\objects\1e\97bcd4373fecd313e236a679840f2beda0b3dc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\20\766c76221924d2b4531bf15d86fb603965d5c3
+C:\Users\horodysk\git\MonsterMaster\.git\objects\21\245ae423087d23918da63d00da23b6d3b3917b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\21\5cebcfd8686ae8fa172b2ccda558262b569dee
+C:\Users\horodysk\git\MonsterMaster\.git\objects\22\54d22e26e544573654234a52c255d8fc75dca9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\23\bb6f94e2d4b41f2d4b16dc025a50dcd594ec19
+C:\Users\horodysk\git\MonsterMaster\.git\objects\24\c40420478b3a7180b3845e03353803f035334e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\26\bdfa6eb531e063a37f58d1375f4b03e05008cb
+C:\Users\horodysk\git\MonsterMaster\.git\objects\27\8e2a8f790f38b6c204339285dca159856c6c9e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\27\93c70163bd276a4317c1d533f836c7982bbf51
+C:\Users\horodysk\git\MonsterMaster\.git\objects\29\2947f01373d8d5fa43de59871043589b82eae6
+C:\Users\horodysk\git\MonsterMaster\.git\objects\2c\46bfb01ef58e9cf2a5ac22a08af63990cdb615
+C:\Users\horodysk\git\MonsterMaster\.git\objects\2d\43c56eafa100e288d069cf97f5586a5892db7d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\30\414844494db59197662c05334e63beeb9eae81
+C:\Users\horodysk\git\MonsterMaster\.git\objects\30\482ec84044e18d6d3d9fa22d5d93d3988ee116
+C:\Users\horodysk\git\MonsterMaster\.git\objects\35\9047dfa4ed206e41e2354f9c6b307e713efe32
+C:\Users\horodysk\git\MonsterMaster\.git\objects\37\f5b636c4f8dc91d91bee81007479dfb80e709b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\3a\ac81393fa4b425414e67c3fcef82100dc88552
+C:\Users\horodysk\git\MonsterMaster\.git\objects\3b\49d39c00d2a8c145d011a90be2de1c68626a84
+C:\Users\horodysk\git\MonsterMaster\.git\objects\3d\b1fd15175ab544bb8999718b044ccee6e8e325
+C:\Users\horodysk\git\MonsterMaster\.git\objects\3f\3424246bf266b40b78dc8bbfc6255d31f21b2e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\41\5781c73c59a6ab45aa89110c766e50c5ff728d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\42\274a0a5fff430778152cdbcbe63e37c6f97d86
+C:\Users\horodysk\git\MonsterMaster\.git\objects\43\5e09978352e16ecd1915c996bdbac5ec184dd0
+C:\Users\horodysk\git\MonsterMaster\.git\objects\44\dd429a09f26213ac315c1379a07b8f1610fdba
+C:\Users\horodysk\git\MonsterMaster\.git\objects\45\207a0ff2d0157d4410f45d41becad8ce2fb302
+C:\Users\horodysk\git\MonsterMaster\.git\objects\49\5e78f45bc544000567852ebae6930a6949954d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4a\b125693c7c484a0252ee7eca9616e0f9b1ac67
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4a\be882cb57fdacbd54e298eafaa7f2f7f0ccac2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4b\d58b0fef0148589b5dc1510d6275491ded76ac
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4e\33d6ec76dcce8051744f721091c5d00cf6c447
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4e\7c73d94c46b341b085a4b106c393ff85240895
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4e\a7e25b11163650f8f06f4303c7947af5a12e37
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4f\04df972b2ebb2b679461d1b6255995afb8bd1a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\4f\7ea7ae69974c1c23563a74894702fa4b169916
+C:\Users\horodysk\git\MonsterMaster\.git\objects\50\48715af91490d7a6343a98ebd9030183a124e2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\50\58d3f060c59bf1d62fac3513274917eb6c6dab
+C:\Users\horodysk\git\MonsterMaster\.git\objects\50\bca22958dafa7b979edc67036c0a2fe55dcdc5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\51\90dcfa0a372aa35017f548f73c83dbf662cbac
+C:\Users\horodysk\git\MonsterMaster\.git\objects\52\3679bac62e4ee4bbfec4b833d96676ea3098dc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\54\5b23e077ba3d314df2af7efc2c7c99023dfc5e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\54\ad9e0cfc4ef1800c256477f820ed5a9416f9a3
+C:\Users\horodysk\git\MonsterMaster\.git\objects\55\23e18c2651828399c8d52bf3d91e2b1b0954e6
+C:\Users\horodysk\git\MonsterMaster\.git\objects\56\37f6e4d2287f4be2fd6a4dd881fcba34d8259c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\56\6cf8994ab7a7688f50c1768ca1e5cca8d9454d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\59\09dd4adb0f887bae97d24f859017b96cb38c4e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\5a\ca01c23855b70deb6886ccfd2a43f7c1ab2cd9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\5c\313863d394bfb95fa40ae2754c5038e76420a5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\5e\128a3289c825af0fb214205f2fa5338e11acf7
+C:\Users\horodysk\git\MonsterMaster\.git\objects\5f\563bed8ae17ca9ca003abb0736fae8b74009a3
+C:\Users\horodysk\git\MonsterMaster\.git\objects\60\2f7ecf76a6e8582b4da2c0275b0cde7f036d4e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\65\a898660c316ab5f9638f6af3e47e9e55e1be89
+C:\Users\horodysk\git\MonsterMaster\.git\objects\69\93c3daf6baf7c32487655d61370a950eccefbe
+C:\Users\horodysk\git\MonsterMaster\.git\objects\6c\e9263ce35dad03bdb40f84b22999609c331d8d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\6e\9a5513b94525a354ebd0b822ecc9038a359e3e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\6e\a94737c2a95ad1fc01ff351498f7b6211cd61f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\70\a8130fc3cf3edb90ad40a233ca8e04fb91a9b8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\71\7fa845a9b3e19383433f4e1f1055d2cf2b055b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\71\c6d760f05183ef8a47c614d8d13380c8528499
+C:\Users\horodysk\git\MonsterMaster\.git\objects\72\ebdb5853291b4d0cd33f4e0bf85388e051f23d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\72\f24efe8fa619b31be8b1aecc1938cd2bc4227b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\73\c41ca99922b594a7dc17eedd000f88dc23d36c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\73\e8d73e74ec8d71f70f0a0d72080b271c0c5140
+C:\Users\horodysk\git\MonsterMaster\.git\objects\73\fcc911cf119303e3c3c82ece7aded9161d6c50
+C:\Users\horodysk\git\MonsterMaster\.git\objects\75\1f717a2f7889c823e5d397e69a37885f472ac9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\75\6b286cfca4322c5c1c73680009e396a2937e38
+C:\Users\horodysk\git\MonsterMaster\.git\objects\76\e798de37a8f0faf38cc645b25c070901af6203
+C:\Users\horodysk\git\MonsterMaster\.git\objects\76\ed63487fe621e067512d80d085e72037029e0c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\77\a4631ab8a75dbd207a22d2e70480fe0d477caa
+C:\Users\horodysk\git\MonsterMaster\.git\objects\77\c0f43204c1bd9fb672127492e008a3805dc974
+C:\Users\horodysk\git\MonsterMaster\.git\objects\77\e12e7a490a900c12cbf57a8c75391c3070e9b5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\79\3a1b32769276fdf42538e3382387715ca5f3c2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\79\69786e77d2b48e874ddd7d0a65602a025c9e27
+C:\Users\horodysk\git\MonsterMaster\.git\objects\7a\d6f3b190f3b8047f211a0f14be08ebd0ec6bf2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\7b\036b321810fba65aa41f8e01f5436f1e1514dd
+C:\Users\horodysk\git\MonsterMaster\.git\objects\7d\98977087ab09c5d6f60a2cd0dead809b00d608
+C:\Users\horodysk\git\MonsterMaster\.git\objects\7d\ceab4f60ed51d5d570bc92682bc24a2fef45a5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\80\a7187a1b07cff5eec889b57bfef9e4d17cd4d7
+C:\Users\horodysk\git\MonsterMaster\.git\objects\81\61807b493e43f342b5ee96ec4ecb2e6a86401f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\81\78753fd7ba4034e0c1dd6ba7bcb43ee6a2584b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\82\4bcfc5a98a397f0d184c539b044dc6e9b66fd7
+C:\Users\horodysk\git\MonsterMaster\.git\objects\82\90cce37e5c59236b506782640f40b3d610bd66
+C:\Users\horodysk\git\MonsterMaster\.git\objects\84\02f9d858ed7d317397992a1a04793f19357a97
+C:\Users\horodysk\git\MonsterMaster\.git\objects\85\2209661799e5b61a9d3e390b709f460567419c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\85\78a5529acafe4326ea61b2a2a0e6c3d01bdc47
+C:\Users\horodysk\git\MonsterMaster\.git\objects\85\848ff493b5e00585f86b37c1976f54576380d1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\8b\a548b51c98b72f928cce0ceb0287eebdfa6b57
+C:\Users\horodysk\git\MonsterMaster\.git\objects\8d\bc05eee7d7fe063e82c36cc9ea5ffa65772364
+C:\Users\horodysk\git\MonsterMaster\.git\objects\8e\104fcd9d4c1d53f76a0b437ab6f95c756a3eb1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\8e\e30784ed82034b6ac0279b92588d389a93ba05
+C:\Users\horodysk\git\MonsterMaster\.git\objects\91\6901e98eb8ca62664943e6fed9755fb3304ec8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\94\1067b9b9309a10a7f0634987f82b93578138a9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\94\1e9fac1fefe084cdfda33a3cb8203abe0c5ae6
+C:\Users\horodysk\git\MonsterMaster\.git\objects\94\63aed546ab767fcd47252bb061459b3c90e703
+C:\Users\horodysk\git\MonsterMaster\.git\objects\96\a442e5b8e9394ccf50bab9988cb2316026245d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\99\238729d8753585237a65b91c7cde426c90baef
+C:\Users\horodysk\git\MonsterMaster\.git\objects\99\67a686fec669c2d7770cfe02d809fe76cc0e44
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9b\e93f6e62e67abe591a6546228182ff0b8e2e37
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9c\0d3161ee798c1b3621679c19f85583919b1236
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9e\04d037971bcb62413853f3cc8a05cda0ff0b58
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9e\503efbc9c0d1f2102d66395d3dcc63a856d34e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9e\c02d4c043cbbbc5c4e32e420543bc08a86c05c
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9e\e43666b5978cfab100b031b007e004b3b59618
+C:\Users\horodysk\git\MonsterMaster\.git\objects\9f\d15305ecc8fa0f8d1601f4228ed88ba7821e77
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a0\b766d753a5c587fd8b072c4c0617ac3a117622
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a1\8c2c73a67fd1fbc877b53afb4e58b83b1b82e3
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a1\fbb4990ce25e5cb07f18405a1696ae08d0cc29
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a2\d5f2d937e429e0f0d168265d5ba4926ce0aeb3
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a3\9d1a477dfe90248bc300c40a5c864262707a6d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a4\bb5fd21a1c769b017b1f59212355e5ceea729f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a4\ccc267b3f14045c085093dcf860e4826d8f9cc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a5\e565802a81ff6f5b80a2706a8a2d87dad59f28
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a6\38baf21f4ae9e45e470df70a50373824bb8440
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a7\037e4ea0dd000b70af4aa431ff2d621f35bc89
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a7\74ffb0b6220e6d9667db4eaa91b9629eabf409
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a7\e991999c04112718edafde0a59b15a6d9e1fad
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a8\dfae91ab871576b48a39d940da47668b07224a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\a9\7ad340649e88c3097362e62ad30e8c6c9c4fd2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\aa\1f5ec5bc157a9682288377157f101346a836ad
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ab\0b18819912443c2d753a156582efeb86b8a19b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ac\c3023087a11c0326216c5087a0e0ac3526edbf
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ae\12e4e40b05e88324ca808c4cd84b6cd58f8d2f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b1\9be79f01ec006750fb709365d27eea53941a21
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b2\2c3ec58105906c7327430499fedac1b5f3ff58
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b2\496ebd7b32404639abbb4d2b37c9db46f714aa
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b2\b6c02100fc1d00a1834a44e12f8df4edbf5aa8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b3\9061f1af98d6cb02cec091f5b594c352a95833
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b4\9e8c25f03e36cb18d777c93227614b36ef4959
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b6\3a7d5bf93b259c9547ff76f8a2bdc7d7f2a84f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b6\57e4c5e58bcf729e43a347c99126c75b12e5da
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b6\5d722d7b2d6bdf5e639dfee841fb298f0f495f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b7\d5bb071baf0fab1089ba996c48847d7a4340fe
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b7\e101a072e5d6a327136967f542201264c5d1da
+C:\Users\horodysk\git\MonsterMaster\.git\objects\b8\03ddaf976d0ffa352fb88af39fb0c261b94413
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ba\842944e808db2aaafb3b37ac814abd8b67f306
+C:\Users\horodysk\git\MonsterMaster\.git\objects\bc\fa0581febfc292711358f156e856315e800cbb
+C:\Users\horodysk\git\MonsterMaster\.git\objects\be\868c7df14d93a3458b97e7ef3f56dc90f33996
+C:\Users\horodysk\git\MonsterMaster\.git\objects\bf\eab9c20986177c7bf7a0c62f6370715bf8eae1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c0\ab8bb5a9e5e658fc74dfa2f6ca00a506f22618
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c2\0f1dde4d55ce2b1dc6fcd4c7cd79cbc3bc964e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c2\1fac179442a5af22f5c73e5aa3c907770e36c6
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c2\8f1d6727777525b1c608b286e7f90e1877728d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c4\c79e132d7dc3b8f28d751d4c82168500c5ad16
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c5\e66ea2e82f4b310b089d1039e3c1cc61d20450
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c6\d04c34975dce9aa7f46bc4080af694c7af70af
+C:\Users\horodysk\git\MonsterMaster\.git\objects\c6\d200e299f140d07a02d39fc61728e2d415934a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ca\2849ead98c585b6786b241752d91d4d4023cde
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ca\b5c56e9b053d4246ba2203ff1fb4eeec4a98e0
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ca\d066309902939ed8655b950e1b9d761816b8c0
+C:\Users\horodysk\git\MonsterMaster\.git\objects\cd\45572a01ff77fd805779898e7ca5aa76694990
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ce\2188cc90dc3af8579709ba99d3cf126c8c4429
+C:\Users\horodysk\git\MonsterMaster\.git\objects\cf\275f3e900d4180b11a3b49689d00e6e3e036e7
+C:\Users\horodysk\git\MonsterMaster\.git\objects\cf\c014d67986124500568e7d63f08789d76498ce
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d2\0d191749f94ae24f3f9851ed17feb370f6ba96
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d4\7405d3eb2b42c6a70f7e804d69317c12ea32b4
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d4\cd943e3ec4352fbd2410a1ff40e4b64c0cc4f4
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d7\5d7d8d101746dcd33c369b306ec61ea9f3c014
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d7\a5f23a92f5220084eca99d3204989a2a4b80f7
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d8\d78e87a9bcbac080b2d2010d80c849e4bb7e0f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d8\e3f30ff1daf066e2cffb8f960b9df13e8d9323
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d9\69700e242b175ba591673af482c276b6899fe2
+C:\Users\horodysk\git\MonsterMaster\.git\objects\d9\ddf583982aa1fe6fd79468cafa4b3078654f22
+C:\Users\horodysk\git\MonsterMaster\.git\objects\da\09923ba123a4a1c7a8f75653f9dac525c081d5
+C:\Users\horodysk\git\MonsterMaster\.git\objects\db\f05ffd489c5b306ad3ca5286b3cfaac56996d1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\dc\a894fe5ff3b5df4b0699613f44897677444203
+C:\Users\horodysk\git\MonsterMaster\.git\objects\dd\7c05b045d279de1e12f59341a511452958711a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e1\3db82f09a395a686b64b8040e13787fa2f7868
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e1\797aadfe36389e7e5246c6a66bce7e3409fe34
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e3\6655ce42e20d77dd0b668fc04ab981ba3973fc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e4\b847fcba6dca301d886d883390976aa423aeee
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e4\ee3954bbf3000166dacd0e183326ac0652e2dc
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e5\2498a13b92479699b800e4480ae56c1a783428
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e5\30919f5447de56b09df419187bdc50a0956a03
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e5\7d6efff6e805c0432c2e20cb8208883fd593ea
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e8\3b9c048d373018776c8564d00376068eb43045
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e8\b5509abfec26e939586407c2491e3101500244
+C:\Users\horodysk\git\MonsterMaster\.git\objects\e9\8359cbd68724913febe8b7fcc4250d912cc4f1
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ea\84463cb876f7119c15844ceb6c8124b93b6f7a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ea\e540399ef94c2fe3c3041369052767dd61e288
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ea\e580c2257fdcc5a4678dd786a23c5bef277f59
+C:\Users\horodysk\git\MonsterMaster\.git\objects\eb\694b84022507ef22fee3fc75b753590baf263e
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ec\95642c4ab757b16fb46564c2747a1df320c9c9
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ec\9b94e5daf715e9839c585e2b0d55a1de5022f0
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ed\414ae8dd106eccc373a69a844c48d986e2f24a
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ef\0fce846bf010e37c1941eaa6109845d54e97cd
+C:\Users\horodysk\git\MonsterMaster\.git\objects\ef\d68c99d7426194d4e0b1762491d2734aa98868
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f0\29f6878421c4b6f88df24448e0958f8ab42838
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f0\439eea64f0283486274b7132df6599d279431f
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f1\ff12828b6c2934525865735d3924b067568a60
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f2\3d16fb2cbb6ad90d3c00b68ddf8a240a0c0875
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f2\ccbbcca79f469320983576bac1444105f482bb
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f2\fe1559a217865a5454add526dcc446f892385b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f3\e2cc818c37da08333e676658be9b0a38bba225
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f4\05d05c45e2736b96dae345491888ef27393858
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f4\125b55b59e664555fcb1525bc7af72a490f43d
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f5\e1ded638c20989a46b7839a3066f9417c8dd17
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f6\893d6f935448c5c4c22320719fa75a862388b8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\f8\5f4a4f0f37fc8dc005ebe655db27056de66fe8
+C:\Users\horodysk\git\MonsterMaster\.git\objects\fa\9e70c953927c89e33acc562e4d6bdd8ed7f519
+C:\Users\horodysk\git\MonsterMaster\.git\objects\fb\caa99106d43d5caacf142941963c285b4a4289
+C:\Users\horodysk\git\MonsterMaster\.git\objects\fc\1911a82e1804a6465bd50eab1336a921571e05
+C:\Users\horodysk\git\MonsterMaster\.git\objects\fe\5f6ee5ef427d112d82d80539f41c4de533fc9b
+C:\Users\horodysk\git\MonsterMaster\.git\objects\fe\82fb11b40e1188246a13ce32ef505ff639ad33
+C:\Users\horodysk\git\MonsterMaster\.git\objects\pack\pack-4a4d03520b829d8c64468b15abdf645f4b1ba67d.idx
+C:\Users\horodysk\git\MonsterMaster\.git\objects\pack\pack-4a4d03520b829d8c64468b15abdf645f4b1ba67d.pack
+C:\Users\horodysk\git\MonsterMaster\.git\refs\heads\master
+C:\Users\horodysk\git\MonsterMaster\.git\refs\remotes\origin\master
+C:\Users\horodysk\git\MonsterMaster\concept-arts\gender\anime-boy-and-girl_1_000000083165_1.jpg
+C:\Users\horodysk\git\MonsterMaster\concept-arts\gender\images.jpg
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\eyes.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\font.txt
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\leftcloud.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\master.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\mirage final.ttf
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\monster.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\monstermasters.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\monstermasters.tiff
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\monstermasters_nobg.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\monstermasters_nobg.tiff
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\rightcloud.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\sky.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\space time tear.png
+C:\Users\horodysk\git\MonsterMaster\concept-arts\logo\topcloud.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\.classpath
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\.project
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\AndroidManifest.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\build.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\findbugs-exclude.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\ic_launcher-web.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\local.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\monstermaster.keystore
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\proguard-project.txt
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\project.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\secure.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\.settings\org.eclipse.core.resources.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\.settings\org.eclipse.jdt.core.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\.settings\org.eclipse.jdt.ui.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\AndroidManifest.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\AndroidManifest.xml.d
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\build.prop
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes.dex
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes.dex.d
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\jarlist.cache
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\LogoEhrid-debug-unaligned.apk
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\LogoEhrid-debug-unaligned.apk.d
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\LogoEhrid-debug.apk
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\LogoEhrid.ap_
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\LogoEhrid.ap_.d
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\MonsterMaster.apk
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\proguard.txt
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\resources.ap_
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\BuildConfig.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$anim.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$attr.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$color.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$dimen.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$drawable.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$id.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$layout.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$string.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R$style.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\R.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\main\MainActivity.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\splashscreen\LogoApplication.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\splashscreen\LogoEhrid.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\splashscreen\SplashscreanActivity$1.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\classes\org\monstermaster\splashscreen\SplashscreanActivity.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\dexedLibs\android-support-v4-e9f8db5ec635ba447201107da8a4de05.jar
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-hdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-mdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-xhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-xhdpi\logo_ehrid.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-xhdpi\logo_monstermaster.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\crunch\drawable-xxhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-hdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-mdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_ehrid.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_monstermaster.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\bin\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\gen\org\monstermaster\BuildConfig.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\gen\org\monstermaster\R.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\libs\android-support-v4.jar
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\anim\fade_in.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\anim\fade_out.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable\sky.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-hdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-mdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-xhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-xhdpi\logo_ehrid.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-xhdpi\logo_monstermaster.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\layout\activity_main.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\layout\activity_splashscreen.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\values\colors.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\values\dimens.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\values\strings.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\res\values\styles.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\src\org\monstermaster\main\MainActivity.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\src\org\monstermaster\splashscreen\LogoApplication.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\src\org\monstermaster\splashscreen\LogoEhrid.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMaster\src\org\monstermaster\splashscreen\SplashscreanActivity.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\.classpath
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\.project
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\AndroidManifest.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\ant.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\build.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\local.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\proguard-project.txt
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\project.properties
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\.settings\org.eclipse.core.resources.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\.settings\org.eclipse.jdt.core.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\.settings\org.eclipse.jdt.ui.prefs
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\AndroidManifest.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes.dex
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\jarlist.cache
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\MonsterMasterTest.apk
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\resources.ap_
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\main\AllMainTests.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\main\MainActivityTest.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\splashscreen\AllSplashscreenTests.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\splashscreen\LogoApplicationTest.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\splashscreen\LogoEhridTest.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\test\BuildConfig.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\test\R$attr.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\test\R$drawable.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\test\R$string.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\test\R.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\classes\org\monstermaster\tests\AllTests.class
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\res\crunch\drawable-hdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\res\crunch\drawable-ldpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\res\crunch\drawable-mdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\bin\res\crunch\drawable-xhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\gen\org\monstermaster\test\BuildConfig.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\gen\org\monstermaster\test\R.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\libs\android-junit-report-1.5.8.jar
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\res\drawable-hdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\res\drawable-ldpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\res\drawable-mdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\res\drawable-xhdpi\ic_launcher.png
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\res\values\strings.xml
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\main\AllMainTests.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\main\MainActivityTest.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\splashscreen\AllSplashscreenTests.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\splashscreen\LogoApplicationTest.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\splashscreen\LogoEhridTest.java
+C:\Users\horodysk\git\MonsterMaster\MonsterMasterTest\src\org\monstermaster\tests\AllTests.java
+C:\Users\horodysk\git\MonsterMaster\scripts\changeManifestVersion.py
+387 File(s) copied
+
+C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace>exit 0 
+[MonsterMasterTest] $ cmd.exe /C '"ant.bat -file build.xml -DversionCode=1 -DversionName=0.1 clean debug install test fetch-test-report && exit %%ERRORLEVEL%%"'
+Buildfile: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\build.xml
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-check-env:
+ [checkenv] Android SDK Tools Revision 22.6.2
+ [checkenv] Installed at C:\adt\sdk
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-setup:
+     [echo] Project Name: MonsterMasterTest
+  [gettype] Project Type: Test Application
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-clean:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+   [delete] Deleting directory C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin
+   [delete] Deleting directory C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\gen
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-check-env:
+ [checkenv] Android SDK Tools Revision 22.6.2
+ [checkenv] Installed at C:\adt\sdk
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-setup:
+     [echo] Project Name: MonsterMaster
+  [gettype] Project Type: Application
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-clean:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+   [delete] Deleting directory C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin
+   [delete] Deleting directory C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\gen
+[getlibpath] Library dependencies:
+[getlibpath] No Libraries
+   [subant] No sub-builds to iterate on
+[getlibpath] Library dependencies:
+[getlibpath] No Libraries
+   [subant] No sub-builds to iterate on
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-mode-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-debug-files:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-check-env:
+ [checkenv] Android SDK Tools Revision 22.6.2
+ [checkenv] Installed at C:\adt\sdk
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-setup:
+     [echo] Project Name: MonsterMasterTest
+  [gettype] Project Type: Test Application
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-debug-mode:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-debug-obfuscation-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-build:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-build-setup:
+[getbuildtools] Using latest Build Tools: 19.0.3
+     [echo] Resolving Build Target for MonsterMasterTest...
+[gettarget] Project Target:   Android 4.4.2
+[gettarget] API level:        19
+[gettarget] WARNING: No minSdkVersion value set. Application will install on all Android versions.
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\rsObj
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\rsLibs
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\gen
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\classes
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for MonsterMasterTest...
+[dependency] Ordered libraries:
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'debug'...
+   [subant] No sub-builds to iterate on
+     [echo] ----------
+     [echo] Building tested project at C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster with 'debug'...
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-mode-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-debug-files:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-check-env:
+ [checkenv] Android SDK Tools Revision 22.6.2
+ [checkenv] Installed at C:\adt\sdk
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-setup:
+     [echo] Project Name: MonsterMaster
+  [gettype] Project Type: Application
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-debug-mode:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-debug-obfuscation-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-build:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-build-setup:
+[getbuildtools] Using latest Build Tools: 19.0.3
+     [echo] Resolving Build Target for MonsterMaster...
+[gettarget] Project Target:   Android 4.4.2
+[gettarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\rsObj
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\rsLibs
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\gen
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\classes
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for MonsterMaster...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'debug'...
+   [subant] No sub-builds to iterate on
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-compile:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-compile:
+    [javac] Compiling 6 source files to C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\classes
+    [javac] Note: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\src\org\monstermaster\splashscreen\SplashscreanActivity.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-compile:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-obfuscate:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-dex:
+      [dex] input: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\classes
+      [dex] input: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\libs\android-support-v4.jar
+      [dex] Pre-Dexing C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\libs\android-support-v4.jar -> android-support-v4-aacfcdd6c08921c4b7bc41a7824c1d69.jar
+      [dex] Converting compiled files and external libraries into C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\classes.dex...
+       [dx] Merged dex A (16 defs/5.8KiB) with dex B (505 defs/547.1KiB). Result is 521 defs/679.0KiB. Took 0.3s
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-crunch:
+   [crunch] Crunching PNG Files in source dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res
+   [crunch] To destination dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-hdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-hdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-hdpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-mdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-mdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-mdpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-xhdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\ic_launcher.png: 90% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-xhdpi\logo_ehrid.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_ehrid.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_ehrid.png: 113% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-xhdpi\logo_monstermaster.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_monstermaster.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xhdpi\logo_monstermaster.png: 120% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\res\drawable-xxhdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xxhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\res\drawable-xxhdpi\ic_launcher.png: 107% size of source)
+   [crunch] Crunched 6 PNG files to update cache
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-package-resources:
+     [aapt] Creating full resource package...
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating MonsterMaster-debug-unaligned.apk and signing it with a debug key...
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-package:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-do-debug:
+ [zipalign] Running zip align on final apk...
+     [echo] Debug Package: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\MonsterMaster-debug.apk
+[propertyfile] Creating new property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\build.prop
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-build:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mdebug:
+[testedprojectclasspath] Resolved classpath:
+[testedprojectclasspath] C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\libs\android-support-v4.jar
+[testedprojectclasspath] C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\classes
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-pre-compile:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-compile:
+    [javac] Compiling 8 source files to C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\classes
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-compile:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-obfuscate:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-dex:
+      [dex] input: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\classes
+      [dex] input: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\libs\android-junit-report-1.5.8.jar
+      [dex] Pre-Dexing C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\libs\android-junit-report-1.5.8.jar -> android-junit-report-1.5.8-47714026c9a6f5a1c13a0cbcd465160c.jar
+      [dex] Converting compiled files and external libraries into C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\classes.dex...
+       [dx] Merged dex A (11 defs/4.6KiB) with dex B (4 defs/11.7KiB). Result is 15 defs/18.0KiB. Took 0.0s
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-crunch:
+   [crunch] Crunching PNG Files in source dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\res
+   [crunch] To destination dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\res\drawable-hdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-hdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-hdpi\ic_launcher.png: 87% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\res\drawable-ldpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-ldpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-ldpi\ic_launcher.png: 0% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\res\drawable-mdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-mdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-mdpi\ic_launcher.png: 78% size of source)
+   [crunch] Processing image to cache: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\res\drawable-xhdpi\ic_launcher.png => C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-xhdpi\ic_launcher.png
+   [crunch]   (processed image to cache entry C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\res\drawable-xhdpi\ic_launcher.png: 85% size of source)
+   [crunch] Crunched 4 PNG files to update cache
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-package-resources:
+     [aapt] Creating full resource package...
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating MonsterMasterTest-debug-unaligned.apk and signing it with a debug key...
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-package:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-do-debug:
+ [zipalign] Running zip align on final apk...
+     [echo] Debug Package: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\MonsterMasterTest-debug.apk
+[propertyfile] Creating new property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\build.prop
+[propertyfile] Updating property file: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\build.prop
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-post-build:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mdebug:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minstall:
+     [echo] Installing C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\MonsterMasterTest-debug.apk onto default emulator or device...
+     [exec] 	pkg: /data/local/tmp/MonsterMasterTest-debug.apk
+     [exec] Success
+     [exec] 695 KB/s (43443 bytes in 0.061s)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-mode-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-set-debug-files:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minstall:
+     [echo] Installing C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMaster\bin\MonsterMaster-debug.apk onto default emulator or device...
+     [exec] 	pkg: /data/local/tmp/MonsterMaster-debug.apk
+     [exec] Success
+     [exec] 934 KB/s (750030 bytes in 0.784s)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0minstalld:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-check-env:
+ [checkenv] Android SDK Tools Revision 22.6.2
+ [checkenv] Installed at C:\adt\sdk
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-setup:
+     [echo] Project Name: MonsterMasterTest
+  [gettype] Project Type: Test Application
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0m-test-project-check:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mtest:
+     [echo] Running tests ...
+     [exec] 
+     [exec] org.monstermaster.main.MainActivityTest:.
+     [exec] org.monstermaster.splashscreen.LogoApplicationTest:.
+     [exec] org.monstermaster.splashscreen.LogoEhridTest:.
+     [exec] Test results for JUnitReportTestRunner=...
+     [exec] Time: 1.641
+     [exec] 
+     [exec] OK (3 tests)
+     [exec] 
+     [exec] 
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mfetch-test-report:
+     [echo] Downloading XML test report...
+    [mkdir] Created dir: C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports
+     [exec] 31 KB/s (635 bytes in 0.020s)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 38 seconds
+Recording test results
+Description set: MonsterMaster-0.1.1.DEBUG
+Triggering a new build of [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgY1/az8JH2n0sycFFUjA1+g2pLUIl3fRBAFFAhKzUlNLE7VBwBHG6my2wAAAA==[0mBuild Monster-Master Release #22
+Finished: SUCCESS

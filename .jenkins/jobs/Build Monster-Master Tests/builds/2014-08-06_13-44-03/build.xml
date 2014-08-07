@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.CauseAction>
+      <causes>
+        <com.sonyericsson.rebuild.RebuildCause plugin="rebuild@1.21">
+          <upstreamProject>Build Monster-Master Tests</upstreamProject>
+          <upstreamUrl>job/Build%20Monster-Master%20Tests/</upstreamUrl>
+          <upstreamBuild>17</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UserIdCause/>
+          </upstreamCauses>
+        </com.sonyericsson.rebuild.RebuildCause>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.ParametersAction>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>versionCode</name>
+          <description>An integer value that represents the version of the application code, relative to other versions.</description>
+          <value>1</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>versionName</name>
+          <description>A string value that represents the release version of the application code, as it should be shown to users.</description>
+          <value>0.1</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+    </hudson.model.ParametersAction>
+    <hudson.tasks.junit.TestResultAction>
+      <descriptions class="concurrent-hash-map"/>
+      <failCount>0</failCount>
+      <skipCount>0</skipCount>
+      <totalCount>3</totalCount>
+      <testData/>
+    </hudson.tasks.junit.TestResultAction>
+    <hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction plugin="parameterized-trigger@2.25">
+      <env serialization="custom">
+        <unserializable-parents/>
+        <tree-map>
+          <default>
+            <comparator class="hudson.util.CaseInsensitiveComparator"/>
+          </default>
+          <int>72</int>
+          <string>=C:</string>
+          <string>C:\Users\horodysk\git\Jenkins-copy</string>
+          <string>ALLUSERSPROFILE</string>
+          <string>C:\ProgramData</string>
+          <string>ANDROID_HOME</string>
+          <string>C:\adt\sdk</string>
+          <string>ANDROID_SDK_HOME</string>
+          <string>C:\Users\horodysk</string>
+          <string>ANT_HOME</string>
+          <string>C:\ant</string>
+          <string>APPDATA</string>
+          <string>D:\userdata\horodysk\Application Data</string>
+          <string>APPLOGSC</string>
+          <string>C:\WINDOWS\Logs\Siemens\Applications</string>
+          <string>APPLOGSU</string>
+          <string>C:\Users\horodysk\AppData\Local\Siemens\Applications</string>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#18</string>
+          <string>BUILD_ID</string>
+          <string>2014-08-06_13-44-03</string>
+          <string>BUILD_NUMBER</string>
+          <string>18</string>
+          <string>BUILD_TAG</string>
+          <string>jenkins-Build Monster-Master Tests-18</string>
+          <string>CLASSPATH</string>
+          <string></string>
+          <string>CommonProgramFiles</string>
+          <string>C:\Program Files\Common Files</string>
+          <string>CommonProgramFiles(x86)</string>
+          <string>C:\Program Files (x86)\Common Files</string>
+          <string>CommonProgramW6432</string>
+          <string>C:\Program Files\Common Files</string>
+          <string>COMPUTERNAME</string>
+          <string>CNU330993V</string>
+          <string>ComSpec</string>
+          <string>C:\WINDOWS\system32\cmd.exe</string>
+          <string>Desktop</string>
+          <string>D:\userdata\horodysk\Desktop</string>
+          <string>EXECUTOR_NUMBER</string>
+          <string>1</string>
+          <string>FINDBUGS_HOME</string>
+          <string>C:\findbugs</string>
+          <string>FP_NO_HOST_CHECK</string>
+          <string>NO</string>
+          <string>HOMEDRIVE</string>
+          <string>C:</string>
+          <string>HOMEPATH</string>
+          <string>\Users\horodysk</string>
+          <string>HUDSON_HOME</string>
+          <string>C:\Users\horodysk\git\Jenkins-copy\.jenkins</string>
+          <string>HUDSON_SERVER_COOKIE</string>
+          <string>9da7984cb0f42dea</string>
+          <string>JAVA_HOME</string>
+          <string>c:\Program Files\Java\jdk1.6.0_45</string>
+          <string>JENKINS_HOME</string>
+          <string>C:\Users\horodysk\git\Jenkins-copy\.jenkins</string>
+          <string>JENKINS_SERVER_COOKIE</string>
+          <string>9da7984cb0f42dea</string>
+          <string>JOB_NAME</string>
+          <string>Build Monster-Master Tests</string>
+          <string>LOCALAPPDATA</string>
+          <string>C:\Users\horodysk\AppData\Local</string>
+          <string>LOGONSERVER</string>
+          <string>\\PLWRDC002</string>
+          <string>LogPath</string>
+          <string>C:\WINDOWS\Logs\Siemens</string>
+          <string>NIEXTCCOMPILERSUPP</string>
+          <string>C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\</string>
+          <string>NODE_LABELS</string>
+          <string>master</string>
+          <string>NODE_NAME</string>
+          <string>master</string>
+          <string>NUMBER_OF_PROCESSORS</string>
+          <string>4</string>
+          <string>OS</string>
+          <string>Windows_NT</string>
+          <string>Path</string>
+          <string>C:\Python27\;C:\Program Files (x86)\RSA SecurID Token Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\TortoiseSVN\bin;C:\Python27;C:\Program Files (x86)\apache-maven-3.1.0\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\doxygen\bin;c:\Program Files\Java\jdk1.6.0_45\bin;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\cmd;C:\adt\sdk\tools;C:\adt\sdk\platform-tools;C:\findbugs\bin;C:\ant\bin</string>
+          <string>PATHEXT</string>
+          <string>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</string>
+          <string>PROCESSOR_ARCHITECTURE</string>
+          <string>AMD64</string>
+          <string>PROCESSOR_IDENTIFIER</string>
+          <string>Intel64 Family 6 Model 58 Stepping 9, GenuineIntel</string>
+          <string>PROCESSOR_LEVEL</string>
+          <string>6</string>
+          <string>PROCESSOR_REVISION</string>
+          <string>3a09</string>
+          <string>ProgramData</string>
+          <string>C:\ProgramData</string>
+          <string>ProgramFiles</string>
+          <string>C:\Program Files</string>
+          <string>ProgramFiles(x86)</string>
+          <string>C:\Program Files (x86)</string>
+          <string>ProgramW6432</string>
+          <string>C:\Program Files</string>
+          <string>PROMPT</string>
+          <string>$P$G</string>
+          <string>PSModulePath</string>
+          <string>C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</string>
+          <string>PUBLIC</string>
+          <string>C:\Users\Public</string>
+          <string>SESSIONNAME</string>
+          <string>Console</string>
+          <string>SiteServer</string>
+          <string>webmail-emea.nsn-intra.net</string>
+          <string>SMSSITECODE</string>
+          <string>ZI0</string>
+          <string>SystemDrive</string>
+          <string>C:</string>
+          <string>SystemRoot</string>
+          <string>C:\WINDOWS</string>
+          <string>TEMP</string>
+          <string>C:\Users\horodysk\AppData\Local\Temp</string>
+          <string>TMP</string>
+          <string>C:\Users\horodysk\AppData\Local\Temp</string>
+          <string>UATDATA</string>
+          <string>C:\Windows\SysWOW64\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77</string>
+          <string>USERDNSDOMAIN</string>
+          <string>NSN-INTRA.NET</string>
+          <string>USERDOMAIN</string>
+          <string>NSN-INTRA</string>
+          <string>USERNAME</string>
+          <string>horodysk</string>
+          <string>USERPROFILE</string>
+          <string>C:\Users\horodysk</string>
+          <string>VBOX_INSTALL_PATH</string>
+          <string>C:\Program Files\Oracle\VirtualBox\</string>
+          <string>versionCode</string>
+          <string>1</string>
+          <string>versionName</string>
+          <string>0.1</string>
+          <string>VXIPNPPATH</string>
+          <string>C:\Program Files (x86)\IVI Foundation\VISA\</string>
+          <string>VXIPNPPATH64</string>
+          <string>C:\Program Files\IVI Foundation\VISA\</string>
+          <string>windir</string>
+          <string>C:\WINDOWS</string>
+          <string>windows_tracing_flags</string>
+          <string>3</string>
+          <string>windows_tracing_logfile</string>
+          <string>C:\BVTBin\Tests\installpackage\csilogfile.log</string>
+          <string>WORKSPACE</string>
+          <string>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace</string>
+        </tree-map>
+      </env>
+    </hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.21"/>
+  </actions>
+  <number>18</number>
+  <startTime>1407325443690</startTime>
+  <result>FAILURE</result>
+  <duration>38678</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace</workspace>
+  <hudsonVersion>1.558</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

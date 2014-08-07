@@ -1,0 +1,1764 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL91IyizBQAiE97q8AAAAA=[0mZygmunt Horodyski
+Building in workspace C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace
+[workspace] $ cmd /c call C:\Users\zygmunt\AppData\Local\Temp\hudson191919395245335776.bat
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>commitJenkins.bat
+
+C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>cd ..\..\..\..\ 
+
+C:\HUDSON\Jenkins>git add . 
+warning: LF will be replaced by CRLF in .jenkins/hudson.model.UpdateCenter.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/hudson.plugins.git.GitTool.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/builds/2014-04-14_09-07-27/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/builds/2014-04-14_09-09-36/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/builds/2014-04-14_09-10-43/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/builds/2014-04-14_09-11-59/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/nextBuildNumber.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/nodeMonitors.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ant/META-INF/maven/org.jenkins-ci.plugins/ant/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ant/META-INF/maven/org.jenkins-ci.plugins/ant/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ant/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/antisamy-markup-formatter/META-INF/maven/org.jenkins-ci.plugins/antisamy-markup-formatter/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/antisamy-markup-formatter/META-INF/maven/org.jenkins-ci.plugins/antisamy-markup-formatter/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/antisamy-markup-formatter/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/HUDSON-5977/deleteme.tmp.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-buildSelector.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-buildSelector_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-buildSelector_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-flatten-optional.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-flatten-optional_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-flatten-optional_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-parameterName.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-parameterName_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-parameterName_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-specificBuild.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-workspace.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-workspace_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/copyartifact/help-workspace_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/META-INF/maven/org.jenkins-ci.plugins/credentials/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/META-INF/maven/org.jenkins-ci.plugins/credentials/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/name.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/name_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/specification.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/credentials/help/domain/specification_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/cvs/META-INF/maven/org.jenkins-ci.plugins/cvs/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/cvs/META-INF/maven/org.jenkins-ci.plugins/cvs/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/cvs/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/description-setter/META-INF/maven/org.jenkins-ci.plugins/description-setter/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/description-setter/META-INF/maven/org.jenkins-ci.plugins/description-setter/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/external-monitor-job/META-INF/maven/org.jenkins-ci.plugins/external-monitor-job/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/external-monitor-job/META-INF/maven/org.jenkins-ci.plugins/external-monitor-job/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/external-monitor-job/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git-client/META-INF/maven/org.jenkins-ci.plugins/git-client/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git-client/META-INF/maven/org.jenkins-ci.plugins/git-client/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git-client/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/META-INF/maven/org.jenkins-ci.plugins/git/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/META-INF/maven/org.jenkins-ci.plugins/git/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/extraRepo.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/gitPublisher.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/git/sparseCheckoutPaths.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/github/META-INF/maven/com.coravy.hudson.plugins.github/github/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/github/META-INF/maven/com.coravy.hudson.plugins.github/github/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/github/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/github/help-global.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/github/help-global_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/gradle/META-INF/maven/org.jenkins-ci.plugins/gradle/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/gradle/META-INF/maven/org.jenkins-ci.plugins/gradle/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/gradle/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/gradle/help.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/javadoc/META-INF/maven/org.jenkins-ci.plugins/javadoc/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/javadoc/META-INF/maven/org.jenkins-ci.plugins/javadoc/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/javadoc/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/META-INF/maven/org.jenkins-ci.plugins/ldap/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/META-INF/maven/org.jenkins-ci.plugins/ldap/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/help-cache.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/help-groupMembershipFilter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ldap/help-groupSearchFilter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/mailer/META-INF/maven/org.jenkins-ci.plugins/mailer/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/mailer/META-INF/maven/org.jenkins-ci.plugins/mailer/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/mailer/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/matrix-auth/META-INF/maven/org.jenkins-ci.plugins/matrix-auth/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/matrix-auth/META-INF/maven/org.jenkins-ci.plugins/matrix-auth/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/matrix-auth/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/META-INF/maven/org.jenkins-ci.main/maven-plugin/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/META-INF/maven/org.jenkins-ci.main/maven-plugin/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/aggregator_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/archivingDisabled.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/archivingDisabled_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/archivingDisabled_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/archivingDisabled_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/downstreamDisabled.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/downstreamDisabled_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/downstreamDisabled_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/goals_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/ignore-upstrem-changes.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/ignore-upstrem-changes_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/ignore-upstrem-changes_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/ignore-upstrem-changes_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/ignore-upstrem-changes_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/incremental.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/incremental_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/incremental_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/maven-opts_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/module-goals_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/per-module-email.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/per-module-email_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/per-module-email_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/private-repository_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/root-pom_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/run-headless.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/run-headless_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/run-headless_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/maven-plugin/run-headless_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/pam-auth/META-INF/maven/org.jenkins-ci.plugins/pam-auth/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/pam-auth/META-INF/maven/org.jenkins-ci.plugins/pam-auth/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/pam-auth/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/scm-api/META-INF/maven/org.jenkins-ci.plugins/scm-api/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/scm-api/META-INF/maven/org.jenkins-ci.plugins/scm-api/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/scm-api/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-credentials/META-INF/maven/org.jenkins-ci.plugins/ssh-credentials/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-credentials/META-INF/maven/org.jenkins-ci.plugins/ssh-credentials/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-credentials/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-slaves/META-INF/maven/org.jenkins-ci.plugins/ssh-slaves/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-slaves/META-INF/maven/org.jenkins-ci.plugins/ssh-slaves/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/ssh-slaves/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/META-INF/maven/org.jenkins-ci.plugins/subversion/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/META-INF/maven/org.jenkins-ci.plugins/subversion/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/subversion/pass-phrase_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/translation/META-INF/maven/org.jenkins-ci.plugins/translation/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/translation/META-INF/maven/org.jenkins-ci.plugins/translation/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/translation/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/translation/dialog.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/windows-slaves/META-INF/maven/org.jenkins-ci.plugins/windows-slaves/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/windows-slaves/META-INF/maven/org.jenkins-ci.plugins/windows-slaves/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/plugins/windows-slaves/WEB-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/queue.xml.bak.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/META-INF/maven/org.jenkins-ci.main/jenkins-war/pom.properties.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/META-INF/maven/org.jenkins-ci.main/jenkins-war/pom.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/classes/META-INF/licenses.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/classes/META-INF/licenses.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/classes/dependencies.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/hudson.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/ibm-web-bnd.xmi.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/jonas-web.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/security/AbstractPasswordBasedSecurityRealm.groovy.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/security/SecurityFilters.groovy.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/sun-web.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/update-center-rootCAs/hudson-community.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/update-center-rootCAs/hudson-community.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/update-center-rootCAs/jenkins-update-center-root-ca.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/update-center-rootCAs/jenkins-update-center-root-ca.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/WEB-INF/web.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/css/color.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/css/style.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/dc-license.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/logger.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/logger_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/logger_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/logger_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/logger_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/name.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/name_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/name_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/name_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/LogRecorder/name_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/axes_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/combinationfilter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/combinationfilter_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/combinationfilter_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/combinationfilter_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/combinationfilter_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/matrix/jdk_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean-default.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean-default_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean-default_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean-default_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean-default_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/boolean_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice-choices.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice-choices_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice-choices_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice-choices_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice-choices_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/choice_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/description_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file-name.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file-name_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file-name_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file-name_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file-name_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/file_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/name.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/name_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/name_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/name_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/name_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-filter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-project.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-project_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-project_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-project_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run-project_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/run_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string-default.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string-default_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string-default_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string-default_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string-default_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/parameter/string_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/batch_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-downstream-building.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-downstream-building_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-downstream-building_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-upstream-building.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-upstream-building_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-upstream-building_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/block-upstream-building_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/custom-workspace_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/defaultView.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/defaultView_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/defaultView_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/defaultView_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/disable_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/downstream_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/fingerprint_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/javadoc-keep-all_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/log-rotation_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/parameterized-build_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/scmCheckoutRetryCount.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/scmCheckoutRetryCount_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/scmCheckoutRetryCount_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/scmCheckoutRetryCount_zh_CN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/scmCheckoutRetryCount_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/triggerRemotely_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/project-config/upstream_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/displayName.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/displayName_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/displayName_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/run-config/displayName_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/scm-browsers/list.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/scm-browsers/list_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/scm-browsers/list_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/container-realm_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/full-control-once-logged-in_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/groupSearchBase_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerDN_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/managerPassword_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/rootDN_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/server_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchBase_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/ldap/userSearchFilter_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/legacy-auth-strategy_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/no-authorization_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_zh_CN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm/allow-signup_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/security/private-realm_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_zh_CN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/shell/shellexe_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/cvs-browser_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/defaultJobNamingStrategy.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/defaultJobNamingStrategy_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/defaultJobNamingStrategy_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/defaultJobNamingStrategy_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables_zh_CN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/globalEnvironmentVariables_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/homeDirectory_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/availability_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/clock_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/idleDelay_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/demand/inDemandDelay_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlp-tunnel.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlp-tunnel_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlp-tunnel_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlp-tunnel_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlp-tunnel_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/jnlpSecurity_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/numExecutors_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/master-slave/usage_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/nodeEnvironmentVariables.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/nodeEnvironmentVariables_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/nodeEnvironmentVariables_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/nodeEnvironmentVariables_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/nodeEnvironmentVariables_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/patternJobNamingStrategy.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/patternJobNamingStrategy_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/patternJobNamingStrategy_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/patternJobNamingStrategy_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/quietPeriod_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/system-config/systemMessage_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/auto-aggregate_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/help_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/aggregate-test/manual-list_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/fingerprint/keepDependencies_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/junit/report_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/maven/properties.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/maven/properties_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/maven/properties_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/maven/properties_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tasks/maven/properties_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/help-label.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/help-label_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/help-label_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property_zh_CN.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/tools/tool-location-node-property_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/user/fullName_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/description_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-executors.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-executors_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-executors_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-executors_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-queue.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-queue_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-queue_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/filter-queue_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_de.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_fr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_nl.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_pt_BR.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_ru.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_tr.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/includeregex_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/statusFilter.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/statusFilter_ja.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/help/view-config/statusFilter_zh_TW.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/RRZEIconSet-License.url.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/RRZEIconSet.url.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/TangoProject-License.url.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/atom-license.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/title.svg.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/images/topbar.svg.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/robots.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/behavior.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/combobox-readme.txt.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/combobox.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/hudson-behavior.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/prototype.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/sortable.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/utilities.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/animation/animation-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/animation/animation-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/autocomplete.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/button.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/calendar.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/carousel.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/colorpicker.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/container.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/datatable.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/editor.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/imagecropper.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/layout.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/logger.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/menu.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/paginator.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/profilerviewer.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/progressbar.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/resize.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/simpleeditor.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/slider.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/tabview.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/treeview.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/assets/skins/sam/yuitest.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/autocomplete/assets/autocomplete-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/autocomplete/assets/skins/sam/autocomplete-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/autocomplete/assets/skins/sam/autocomplete.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/autocomplete/autocomplete-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/autocomplete/autocomplete-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/base/base-min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/base/base.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/button/assets/button-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/button/assets/skins/sam/button-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/button/assets/skins/sam/button.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/button/button-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/button/button-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/connection/connection-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/connection/connection-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/connection/connection_core-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/connection/connection_core-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/assets/container-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/assets/container.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/assets/skins/sam/container-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/assets/skins/sam/container.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/container-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/container-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/container_core-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/container/container_core-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/cookie/cookie-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/cookie/cookie-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/cutdown.sh.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/datasource/datasource-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/datasource/datasource-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/dom/dom-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/dom/dom-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/dragdrop/dragdrop-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/dragdrop/dragdrop-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/editor-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/simpleeditor-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/skins/sam/editor-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/skins/sam/editor.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/skins/sam/simpleeditor-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/assets/skins/sam/simpleeditor.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/editor-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/editor-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/simpleeditor-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/editor/simpleeditor-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/element/element-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/element/element-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/event/event-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/event/event-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/fonts/fonts-min.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/fonts/fonts.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/assets/logger-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/assets/logger.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/assets/skins/sam/logger-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/assets/skins/sam/logger.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/logger-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/logger/logger-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/assets/menu-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/assets/menu.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/assets/skins/sam/menu-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/assets/skins/sam/menu.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/menu-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/menu/menu-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/resize/assets/resize-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/resize/assets/skins/sam/resize-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/resize/assets/skins/sam/resize.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/resize/resize-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/resize/resize-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/storage/storage-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/storage/storage-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/border_tabs.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/skin-sam.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/skins/sam/tabview-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/skins/sam/tabview.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/tabview-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/assets/tabview.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/tabview-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/tabview/tabview-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/treeview/assets/skins/sam/treeview-skin.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/treeview/assets/skins/sam/treeview.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/treeview/assets/treeview-core.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/treeview/treeview-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/treeview/treeview-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/yahoo/yahoo-debug.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/war/scripts/yui/yahoo/yahoo-min.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in run_jenkins.bat.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/credentials.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jenkins.security.QueueItemAuthenticatorConfiguration.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_12-16-29/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_12-24-20/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_12-24-20/log.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_13-36-13/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_13-46-07/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_14-06-12/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_14-11-37/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_14-24-32/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_15-28-48/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_15-36-13/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/builds/2014-08-06_15-38-38/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Release/nextBuildNumber.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_13-44-03/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_13-44-03/junitResult.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_13-45-21/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_13-45-21/junitResult.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_14-02-17/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_14-02-17/junitResult.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Build Monster-Master Tests/builds/2014-08-06_14-05-21/build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CR

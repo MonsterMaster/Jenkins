@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result>
+  <suites>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.main.MainActivityTest</name>
+      <duration>0.389</duration>
+      <cases>
+        <case>
+          <duration>0.389</duration>
+          <className>org.monstermaster.main.MainActivityTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.splashscreen.LogoApplicationTest</name>
+      <duration>0.303</duration>
+      <cases>
+        <case>
+          <duration>0.303</duration>
+          <className>org.monstermaster.splashscreen.LogoApplicationTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.splashscreen.LogoEhridTest</name>
+      <duration>0.447</duration>
+      <cases>
+        <case>
+          <duration>0.447</duration>
+          <className>org.monstermaster.splashscreen.LogoEhridTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>1.139</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

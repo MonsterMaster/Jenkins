@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <logRotator class="hudson.tasks.LogRotator">
+    <daysToKeep>-1</daysToKeep>
+    <numToKeep>10</numToKeep>
+    <artifactDaysToKeep>-1</artifactDaysToKeep>
+    <artifactNumToKeep>-1</artifactNumToKeep>
+  </logRotator>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <hudson.model.ParametersDefinitionProperty>
+      <parameterDefinitions>
+        <hudson.model.StringParameterDefinition>
+          <name>versionCode</name>
+          <description>An integer value that represents the version of the application code, relative to other versions.</description>
+          <defaultValue>1</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>versionName</name>
+          <description>A string value that represents the release version of the application code, as it should be shown to users.</description>
+          <defaultValue>1.0</defaultValue>
+        </hudson.model.StringParameterDefinition>
+      </parameterDefinitions>
+    </hudson.model.ParametersDefinitionProperty>
+    <com.sonyericsson.rebuild.RebuildSettings plugin="rebuild@1.21">
+      <autoRebuild>false</autoRebuild>
+    </com.sonyericsson.rebuild.RebuildSettings>
+  </properties>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <hudson.tasks.BatchFile>
+      <command>rmdir MonsterMaster /s /q
+xcopy C:\Users\zygmunt\git\MonsterMaster\* MonsterMaster\* /E</command>
+    </hudson.tasks.BatchFile>
+    <hudson.tasks.BatchFile>
+      <command>cd MonsterMaster\scripts\ 
+python changeManifestVersion.py %versionCode% %versionName%.%versionCode%.%BUILD_NUMBER%</command>
+    </hudson.tasks.BatchFile>
+    <hudson.tasks.Ant plugin="ant@1.2">
+      <targets>clean release</targets>
+      <buildFile>MonsterMaster\MonsterMaster\build.xml</buildFile>
+    </hudson.tasks.Ant>
+    <hudson.tasks.BatchFile>
+      <command>cd MonsterMaster\MonsterMaster\bin
+move MonsterMaster-release.apk MonsterMaster-%versionName%.%versionCode%.%BUILD_NUMBER%.apk
+
+</command>
+    </hudson.tasks.BatchFile>
+  </builders>
+  <publishers>
+    <hudson.tasks.ArtifactArchiver>
+      <artifacts>MonsterMaster\MonsterMaster\bin\MonsterMaster-${versionName}.${versionCode}.${BUILD_NUMBER}.apk</artifacts>
+      <latestOnly>false</latestOnly>
+      <allowEmptyArchive>false</allowEmptyArchive>
+    </hudson.tasks.ArtifactArchiver>
+    <hudson.plugins.descriptionsetter.DescriptionSetterPublisher plugin="description-setter@1.8">
+      <regexp></regexp>
+      <regexpForFailed></regexpForFailed>
+      <description>MonsterMaster-${versionName}.${versionCode}.${BUILD_NUMBER}</description>
+      <setForMatrix>false</setForMatrix>
+    </hudson.plugins.descriptionsetter.DescriptionSetterPublisher>
+  </publishers>
+  <buildWrappers/>
+</project>

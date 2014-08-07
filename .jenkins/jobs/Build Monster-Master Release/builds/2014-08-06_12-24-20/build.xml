@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UpstreamCause>
+          <upstreamProject>Build Monster-Master Tests</upstreamProject>
+          <upstreamUrl>job/Build%20Monster-Master%20Tests/</upstreamUrl>
+          <upstreamBuild>13</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UserIdCause/>
+          </upstreamCauses>
+        </hudson.model.Cause_-UpstreamCause>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.CauseAction>
+      <causes>
+        <hudson.model.Cause_-UserIdCause/>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.CauseAction>
+      <causes>
+        <com.sonyericsson.rebuild.RebuildCause plugin="rebuild@1.21">
+          <upstreamProject>Build Monster-Master Release</upstreamProject>
+          <upstreamUrl>job/Build%20Monster-Master%20Release/</upstreamUrl>
+          <upstreamBuild>18</upstreamBuild>
+          <upstreamCauses>
+            <hudson.model.Cause_-UpstreamCause>
+              <upstreamProject>Build Monster-Master Tests</upstreamProject>
+              <upstreamUrl>job/Build%20Monster-Master%20Tests/</upstreamUrl>
+              <upstreamBuild>13</upstreamBuild>
+              <upstreamCauses>
+                <hudson.model.Cause_-UserIdCause reference="../../../../../../../hudson.model.CauseAction/causes/hudson.model.Cause_-UpstreamCause/upstreamCauses/hudson.model.Cause_-UserIdCause"/>
+              </upstreamCauses>
+            </hudson.model.Cause_-UpstreamCause>
+          </upstreamCauses>
+        </com.sonyericsson.rebuild.RebuildCause>
+      </causes>
+    </hudson.model.CauseAction>
+    <hudson.model.ParametersAction>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>versionCode</name>
+          <description>An integer value that represents the version of the application code, relative to other versions.</description>
+          <value>1</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>versionName</name>
+          <description>A string value that represents the release version of the application code, as it should be shown to users.</description>
+          <value>1.0</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+    </hudson.model.ParametersAction>
+    <hudson.plugins.git.util.BuildData plugin="git@2.2.1">
+      <buildsByBranchName/>
+      <remoteUrls>
+        <string>git@github.com:MonsterMaster/MonsterMaster.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildData>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.8">
+      <description></description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+    <com.sonyericsson.rebuild.RebuildAction plugin="rebuild@1.21"/>
+  </actions>
+  <number>19</number>
+  <startTime>1407320660320</startTime>
+  <result>FAILURE</result>
+  <description></description>
+  <duration>21232</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace</workspace>
+  <hudsonVersion>1.558</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

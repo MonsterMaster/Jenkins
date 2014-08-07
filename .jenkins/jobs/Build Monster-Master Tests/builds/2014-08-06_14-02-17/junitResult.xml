@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result>
+  <suites>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.main.MainActivityTest</name>
+      <duration>0.272</duration>
+      <cases>
+        <case>
+          <duration>0.272</duration>
+          <className>org.monstermaster.main.MainActivityTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.splashscreen.LogoApplicationTest</name>
+      <duration>0.055</duration>
+      <cases>
+        <case>
+          <duration>0.055</duration>
+          <className>org.monstermaster.splashscreen.LogoApplicationTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.lang.ClassCastException: com.android.internal.policy.impl.PhoneWindow$DecorView cannot be cast to android.widget.RelativeLayout
+	at org.monstermaster.splashscreen.SplashscreanActivity.onCreate(SplashscreanActivity.java:28)
+	at org.monstermaster.splashscreen.LogoApplication.onCreate(LogoApplication.java:16)
+	at android.app.Activity.performCreate(Activity.java:5231)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+	at android.test.ActivityUnitTestCase.startActivity(ActivityUnitTestCase.java:158)
+	at org.monstermaster.splashscreen.LogoApplicationTest.setUp(LogoApplicationTest.java:21)
+	at junit.framework.TestCase.runBare(TestCase.java:132)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+</errorStackTrace>
+          <errorDetails>java.lang.ClassCastException: com.android.internal.policy.impl.PhoneWindow$DecorView cannot be cast to android.widget.RelativeLayout</errorDetails>
+          <failedSince>20</failedSince>
+        </case>
+      </cases>
+    </suite>
+    <suite>
+      <file>C:\Users\horodysk\git\Jenkins-copy\.jenkins\jobs\Build Monster-Master Tests\workspace\MonsterMaster\MonsterMasterTest\bin\reports\junit-report.xml</file>
+      <name>org.monstermaster.splashscreen.LogoEhridTest</name>
+      <duration>0.038</duration>
+      <cases>
+        <case>
+          <duration>0.038</duration>
+          <className>org.monstermaster.splashscreen.LogoEhridTest</className>
+          <testName>testActivityStarted</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.lang.ClassCastException: com.android.internal.policy.impl.PhoneWindow$DecorView cannot be cast to android.widget.RelativeLayout
+	at org.monstermaster.splashscreen.SplashscreanActivity.onCreate(SplashscreanActivity.java:28)
+	at org.monstermaster.splashscreen.LogoEhrid.onCreate(LogoEhrid.java:15)
+	at android.app.Activity.performCreate(Activity.java:5231)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)
+	at android.test.ActivityUnitTestCase.startActivity(ActivityUnitTestCase.java:158)
+	at org.monstermaster.splashscreen.LogoEhridTest.setUp(LogoEhridTest.java:21)
+	at junit.framework.TestCase.runBare(TestCase.java:132)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:191)
+	at android.test.AndroidTestRunner.runTest(AndroidTestRunner.java:176)
+	at android.test.InstrumentationTestRunner.onStart(InstrumentationTestRunner.java:554)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:1701)
+</errorStackTrace>
+          <errorDetails>java.lang.ClassCastException: com.android.internal.policy.impl.PhoneWindow$DecorView cannot be cast to android.widget.RelativeLayout</errorDetails>
+          <failedSince>20</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.365</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

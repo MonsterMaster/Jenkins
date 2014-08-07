@@ -1,5 +1,4 @@
-cd %HOMEPATH%\git\Jenkins
-echo %cd%
+cd ..\..\..\..\
 git add .
-git commit -m "Jenkins update ${BUILD_NUMBER}"
+git commit -m "Jenkins update"
 git push

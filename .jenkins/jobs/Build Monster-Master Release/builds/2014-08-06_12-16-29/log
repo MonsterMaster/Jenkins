@@ -1,0 +1,26 @@
+Started by upstream project "[8mha:AAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAypEgYV/az8JH2n0sycFFUjA1+g2pLUIl3fRBAFFAhJLS4p1gcA5vLWItkAAAA=[0mBuild Monster-Master Tests" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgY1/az8JH2n0sycFFUjA1+g2pLUIl3fRBAFFAhJLS4p1jc0BgBc23zk2wAAAA==[0m13
+originally caused by:
+ Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Users\horodysk\git\Jenkins\.jenkins\jobs\Build Monster-Master Release\workspace
+Fetching changes from the remote Git repository
+Fetching upstream changes from https://github.com/MonsterMaster/MonsterMaster.git
+FATAL: Failed to fetch from https://github.com/MonsterMaster/MonsterMaster.git
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mhudson.plugins.git.GitException: Failed to fetch from https://github.com/MonsterMaster/MonsterMaster.git
+	at hudson.plugins.git.GitSCM.fetchFrom(GitSCM.java:623)
+	at hudson.plugins.git.GitSCM.retrieveChanges(GitSCM.java:855)
+	at hudson.plugins.git.GitSCM.checkout(GitSCM.java:880)
+	at hudson.model.AbstractProject.checkout(AbstractProject.java:1320)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.defaultCheckout(AbstractBuild.java:609)
+	at jenkins.scm.SCMCheckoutStrategy.checkout(SCMCheckoutStrategy.java:88)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:518)
+	at hudson.model.Run.execute(Run.java:1689)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:88)
+	at hudson.model.Executor.run(Executor.java:231)
+Caused by: hudson.plugins.git.GitException: Failed to connect to https://github.com/MonsterMaster/MonsterMaster.git using credentials  (exception: org.apache.http.conn.HttpHostConnectException: Connect to github.com:443 [github.com/192.30.252.128] failed: Connection timed out: connect)
+	at org.jenkinsci.plugins.gitclient.CliGitAPIImpl.checkCredentials(CliGitAPIImpl.java:1935)
+	at org.jenkinsci.plugins.gitclient.CliGitAPIImpl.launchCommandWithCredentials(CliGitAPIImpl.java:1123)
+	at org.jenkinsci.plugins.gitclient.CliGitAPIImpl.access$200(CliGitAPIImpl.java:87)
+	at org.jenkinsci.plugins.gitclient.CliGitAPIImpl$1.execute(CliGitAPIImpl.java:254)
+	at hudson.plugins.git.GitSCM.fetchFrom(GitSCM.java:621)
+	... 10 more
