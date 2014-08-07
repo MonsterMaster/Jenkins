@@ -5,3 +5,61 @@ Building in workspace C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\wor
 C:\HUDSON\Jenkins\.jenkins\jobs\Commit Jenkins Changes\workspace>cd ..\..\..\..\ 
 
 C:\HUDSON\Jenkins>git add . 
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like '.jenkins/jobs/Commit Jenkins Changes/builds/2014-04-14_09-07-27/build.xml' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/nextBuildNumber.
+The file will have its original line endings in your working directory.
+
+C:\HUDSON\Jenkins>git commit -m "Jenkins update" 
+[master df15bbc] Jenkins update
+ 4 files changed, 13 insertions(+), 2 deletions(-)
+ create mode 100644 .jenkins/jobs/Commit Jenkins Changes/builds/2014-08-08_00-39-20/changelog.xml
+ create mode 100644 .jenkins/jobs/Commit Jenkins Changes/builds/2014-08-08_00-39-20/log
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/nextBuildNumber.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/config.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .jenkins/jobs/Commit Jenkins Changes/nextBuildNumber.
+The file will have its original line endings in your working directory.
+
+C:\HUDSON\Jenkins>git push 
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+In Git 2.0, Git will default to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+fatal: could not read Username for 'https://github.com': Invalid argument
+Build was aborted
+Aborted by [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL91IyizBQAiE97q8AAAAA=[0mZygmunt Horodyski
+Description set: 
+Finished: ABORTED
